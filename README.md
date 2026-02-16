@@ -1,95 +1,82 @@
 <h1 align="center">Hi 👋, I'm Pothula Naga Jyothi</h1>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Building+Secure+%26+Scalable+Applications;React+%7C+Node.js+%7C+PostgreSQL;Clean+Architecture+Enthusiast" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Professional Woman Coding"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Building+Secure+%26+Scalable+Applications;React+%7C+Node.js+%7C+PostgreSQL;Backend-Driven+Problem+Solver" />
 </p>
+
 
 ---
 
 ## 🚀 About Me
 
-I build structured, production-ready web applications with a strong focus on scalability, security, and clean architecture.
+- <img src="https://img.icons8.com/color/48/source-code.png" width="22"/> I build secure, scalable web applications using structured architecture and clean code.
 
-- Full Stack Developer (React + Node.js ecosystem)
-- Experienced in JWT authentication & Row-Level Security
-- Strong understanding of REST API design
-- Interested in backend systems & real-world problem solving
-- Currently strengthening DevOps & system design fundamentals
+- <img src="https://img.icons8.com/color/48/api.png" width="22"/> Strong foundation in REST API design, authentication systems, and backend logic.
 
----
+- <img src="https://img.icons8.com/color/48/database.png" width="22"/> Comfortable working with relational and cloud-based databases.
 
-## 🧠 What Defines My Work
+- <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="22"/> Exposure to AI-driven systems and real-time analytics dashboards.
 
-- Secure authentication systems (JWT + RLS)
-- Real-time & analytics-driven dashboards
-- Structured backend architecture
-- Clean UI with performance-focused frontend logic
-- Data-driven decision systems
+- <img src="https://img.icons8.com/color/48/cloud.png" width="22"/> Currently strengthening DevOps fundamentals and system design.
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 💻 Frontend
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
 
-### Backend
+
+### ⚙️ Backend
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
 </p>
 
-### Databases & Platforms
+
+### 🛢️ Databases & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=firebase,supabase,sqlite" />
 </p>
 
-### Tools
+### 🧰 Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 DayLedger – Productivity Tracking Platform
-- Full-stack system with per-user data isolation using Supabase RLS
-- Express REST APIs with protected middleware routes
-- Optimistic UI updates & analytics dashboard
-- Deployed frontend on Vercel, backend on Render
-
-### 🔹 AgroWeather Irrigation Advisor
-- Data-driven irrigation recommendation system
-- Real-time weather integration
-- Rule-based backend decision engine
-- Secure authentication & decision history tracking
-
----
-
-## 🧩 AI / Data Exposure
-
-- Built Pollution Source Classifier (85% accuracy)
-- Engineered geospatial features using OpenStreetMap
-- Developed real-time dashboard with Streamlit & Folium
-
----
-
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:pothulanagajyothi2@gmail.com">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:pothulanagajyothi2@gmail.com" target="_blank"
+rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/PothulaNagaJyothi" target="_blank"
+rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://linkedin.com/in/naga-jyothi-pothula" target="_blank"
+rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
